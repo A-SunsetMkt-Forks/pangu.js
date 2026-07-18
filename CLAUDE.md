@@ -35,7 +35,6 @@ npm run publish-package 1.2.3   # Bump version, update docs, build, commit, and 
 ## Development Guidelines
 
 - Maintain zero runtime dependencies
-- Always pin exact dependency versions in `package.json` (no `^` or `~` prefixes)
 
 ## Future Improvements
 
